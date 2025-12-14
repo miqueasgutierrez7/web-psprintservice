@@ -203,7 +203,7 @@ body {
 
 
 @media (max-width: 768px) {
-  h1 {
-    font-size: 28px;
+ p {
+   font-size: 12px;
   }
 }
